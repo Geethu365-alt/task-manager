@@ -18,7 +18,7 @@ export default function Login() {
   };
 
   return (
-    <div className="max-w-md mx-auto bg-white p-6 rounded shadow">
+    <div className="  max-w-md mx-auto bg-white p-6 rounded shadow">
       <h2 className="text-xl font-semibold mb-4">Login</h2>
       <input
         type="text"
