@@ -2,7 +2,6 @@
 import './App.css'
 import { BrowserRouter as Router, Routes, Route, Link, Navigate } from 'react-router-dom';
 import { useDispatch,useSelector } from 'react-redux';
-import store from './Redux/store';
 import Home from './pages/Home';
 import Task from './pages/Task';
 import About from './pages/About';
